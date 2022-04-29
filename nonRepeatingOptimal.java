@@ -11,6 +11,7 @@ public class nonRepeatingOptimal {
                 int nf =of+1;
                 hm.put(a,nf);
             }else{
+
                 hm.put(a,1);
             }
         }

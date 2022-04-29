@@ -8,7 +8,6 @@ public class addTwoNumber {
         System.out.println(a+b);
 
         int ans = a+b; // extra variable for sum
-
         System.out.println(ans);
     }
 }

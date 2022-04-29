@@ -13,6 +13,7 @@ public class rotateAnArray {
         }
         arr[0] = x;
 
+
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i]+" ");
         }

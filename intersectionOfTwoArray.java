@@ -22,6 +22,7 @@ public class intersectionOfTwoArray {
         int b[] = {2,3,5,6};
         int m= a.length;
         int n= b.length;
+
         intersection(a,b,m,n);
     }
 }

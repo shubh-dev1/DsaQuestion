@@ -6,6 +6,7 @@ public class kthMaxAndMinElement {
         Arrays.sort(arr);
         System.out.println("kth Smallest Integer is :"+arr[k-1]);
 
+
     }
     static void kthLargestInteger(Integer arr[] , int l){
         System.out.println("kth Largest Integer is :"+arr[l-1]);

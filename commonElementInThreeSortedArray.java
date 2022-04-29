@@ -13,7 +13,6 @@ public class commonElementInThreeSortedArray {
                 i++;
                 j++;
                 k++;
-
             }
             else if(arr1[i] <arr2[j]){
                 i++;

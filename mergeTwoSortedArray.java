@@ -10,6 +10,7 @@ public class mergeTwoSortedArray {
                 b[0] = temp;
 
 
+
                 int j = 0;
                 while ((j + 1 < b.length )&& (b[j] > b[j + 1])) {
                     temp = b[j];

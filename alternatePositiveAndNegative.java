@@ -19,9 +19,7 @@ public class alternatePositiveAndNegative {
         }
         if(i==0 || i==n){
             return;
-
         }
-
         int k=0;
         while(k<n && i<n){
             int temp = arr[i];

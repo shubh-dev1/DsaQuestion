@@ -8,6 +8,7 @@ public class longestSubArrayWithEqual0And1 {
             int zerocount = 0;
             int onecount = 0;
             for (int j = i; j < arr.length; j++) {
+
                 if (arr[j] == 0) {
                     zerocount++;
                 } else {

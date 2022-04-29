@@ -3,7 +3,6 @@ package Arrays;
 public class maxAndMinElement {
     public static void main(String[] args) {
 
-
     int arr[] = { 2,3,1,5,7,4};
     int max,min;
         if(arr[0] > arr[1]){

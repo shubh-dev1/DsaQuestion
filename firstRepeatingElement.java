@@ -10,7 +10,6 @@ public class firstRepeatingElement {
 
                     System.out.println(arr[i]);
                     return;
-
                 }
 
             }

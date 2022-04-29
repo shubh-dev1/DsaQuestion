@@ -14,7 +14,6 @@ public class sortAnArrayWithoutChangingPositionofNegativeNumbers {
             if (arr[i] >= 0) {
                 arr[i] = ans.get(j);
                 j++;
-
             }
         }
         for(int i=0;i<n;i++){

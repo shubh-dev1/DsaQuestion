@@ -13,6 +13,7 @@ public class firstRepeatingIntegerOptimalSol {
             }
         }
         if(min != -1){
+
             System.out.println(arr[min]+" ");
         }
         else{

@@ -10,8 +10,6 @@ public class nonRepeatingElement {
                 if(i!=j && arr[i] ==arr[j]){
                     break;
                 }
-
-
             }
             if(j == n){
                 System.out.println(arr[i] +" ");

@@ -9,6 +9,7 @@ public class insertAnElement {
             arr[i] = sc.nextInt();
         }
         int num=sc.nextInt();
+
         int pos =sc.nextInt();
 
         int newarr[] = new int[n+1];

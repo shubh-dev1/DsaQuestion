@@ -11,8 +11,8 @@ public class duplicateElement {
                 int of = hm.get(s);
                 int nf = of+1;
                 hm.put(s,nf);
-
-            }else{
+            }
+            else{
                 hm.put(s,1);
             }
         }

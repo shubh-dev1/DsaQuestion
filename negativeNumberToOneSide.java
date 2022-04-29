@@ -9,6 +9,7 @@ public class negativeNumberToOneSide {
                 t[j++] = arr[i];
             }
         }
+
         if (j == arr.length || j == 0) {
             return;
         }
