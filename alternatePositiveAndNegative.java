@@ -35,6 +35,7 @@ public class alternatePositiveAndNegative {
         }
     }
 
+
     public static void main(String[] args) {
         int arr[] ={-4,2,-1,3,-9,6};
         int n= arr.length;
