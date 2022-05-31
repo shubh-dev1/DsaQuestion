@@ -1,4 +1,4 @@
-package BasicCode.sortingAlgo;
+package Arrays;
 
 public class buubleSortDesending {
     public static void main(String[] args) {
