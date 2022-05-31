@@ -1,4 +1,4 @@
-package strings;
+package Arrays;
 import java.util.Scanner;
 public class  reverseString {
     // program to reverse a string
