@@ -1,4 +1,4 @@
-package BasicCode.searching;
+package Arrays;
 import java.util.Scanner;
 public class findFirstAndLastElement {
     static void find(int arr[],int x){
