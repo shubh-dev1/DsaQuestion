@@ -1,4 +1,4 @@
-package strings;
+package Arrays;
 import java.util.Scanner;
 public class compressedString {
     public static void main(String[] args) {
