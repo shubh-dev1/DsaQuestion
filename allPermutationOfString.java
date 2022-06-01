@@ -1,4 +1,4 @@
-package strings;
+package Arrays;
 
 public class allPermutationOfString {
     static void permuatation(String str ,int l,int r) {
