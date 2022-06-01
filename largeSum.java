@@ -1,4 +1,4 @@
-package strings;
+package Arrays;
 import java.util.*;
 public class largeSum {
     public static String findSum(String str1, String str2){
