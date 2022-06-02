@@ -1,4 +1,4 @@
-package strings;
+package Arrays;
 
 public class ccountAndSay {
     public static void main(String[] args) {
