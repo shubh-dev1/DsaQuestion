@@ -1,4 +1,4 @@
-package BasicCode.searching;
+package Arrays;
 
 public class fisAndLastOptimal {
     static int first(int arr[],int n,int k){
