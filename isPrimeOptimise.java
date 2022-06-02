@@ -1,4 +1,4 @@
-package BasicCode.MostCommonQuestion;
+package Arrays;
 import java.util.*;
 public class isPrimeOptimise {
     public static void main(String args[]) {
