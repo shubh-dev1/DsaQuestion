@@ -1,4 +1,4 @@
-package BasicCode.searching;
+package Arrays;
 import java.util.Scanner;
 public class binarysearch {
     static int isPresent(int arr[] ,int k){
